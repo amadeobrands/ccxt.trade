@@ -1,5 +1,5 @@
 # ccxt.trade
 
-CrytoCurrency Exchange Trading Library (Website)
+CrytoCurrency eXchange Trading Library (Website)
 
 http://ccxt.trade
