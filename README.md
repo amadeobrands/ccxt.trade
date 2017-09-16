@@ -1,2 +1,5 @@
 # ccxt.trade
-CryptoCurrency eXchange Trading Developers
+
+CrytoCurrency Exchange Trading Library (Website)
+
+http://ccxt.trade
